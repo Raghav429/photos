@@ -1,0 +1,23 @@
+h1{   
+text-align: center;  
+}
+.sec1{
+text-align: left; 
+}
+.container {
+    text-align: center;
+}
+
+
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 30px;
+}
+.bootstrap{
+background-color: red;
+}
+
+
